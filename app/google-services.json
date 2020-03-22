@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397763014747",
+    "firebase_url": "https://welive-f0fb6.firebaseio.com",
+    "project_id": "welive-f0fb6",
+    "storage_bucket": "welive-f0fb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397763014747:android:d60994c7e7f11d80c30f7e",
+        "android_client_info": {
+          "package_name": "com.example.welive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397763014747-4puo72qfknpt428ir7d5b5a90odtr7cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9t22S32avD7P0tyGffP1OXoJqv831vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397763014747-4puo72qfknpt428ir7d5b5a90odtr7cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
